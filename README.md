@@ -8,8 +8,8 @@ This project showcases advanced Excel data analysis techniques, including workbo
 - **Filtering and Analysis:** Isolating data for specific credit score categories (e.g., Exceptional, Very Good).
 - **Dynamic Lookups:** Building a system to retrieve and analyze client data dynamically.
 - **Visualization:** Creating a line chart to depict FICO score trends.
-   Key Features
 
+  Key Features
 ### 1. **Data Cleaning and Organization**
 - Converted names from uppercase to proper case for readability.
 - Generated unique client IDs by combining initials, old IDs, and last name data.
