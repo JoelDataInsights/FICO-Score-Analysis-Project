@@ -29,7 +29,12 @@ This project showcases advanced Excel data analysis techniques, including workbo
 
 
 ### 4. **Visualization**
-- Developed a line chart dynamically updating with client and month selection.
+- Developed a line chart dynamically updating with client and month selection over a 12-month period.
 - <img width="939" alt="Line chart visualization" src="https://github.com/user-attachments/assets/0e65b291-4eb9-4ea6-b41b-359591ceef1b" />
+Purpose of the Line:
+Track Performance Over Time: It visually depicts how the client's FICO score has fluctuated across the year.
+Highlight Patterns: Allows users to identify trends, such as consistent improvement, decline, or erratic behavior in creditworthiness.
+Dynamic Representation: The chart updates dynamically based on the client ID entered, showcasing personalized insights for each client.
+This line is crucial for analyzing financial health and identifying any potential risks or improvements in the client's credit behavior. It adds a layer of interactive and insightful data visualization to the project.
 
 
