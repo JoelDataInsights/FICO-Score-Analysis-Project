@@ -46,7 +46,6 @@ This project showcases advanced Excel data analysis techniques, including workbo
    The chart dynamically updates based on the client ID entered, allowing personalized insights for each client.
 
 ---
-
 ### **Why This is Important**  
 This line chart is crucial for:
 - **Analyzing Financial Health**: Spotting trends that impact creditworthiness.
